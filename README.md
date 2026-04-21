@@ -30,7 +30,7 @@
 
 ---
 
-## ⚡ 𝐆𝐈𝐓𝐇𝐔𝐁 𝐓𝐑𝐎𝐏𝐇𝐘 ⚡
+## ⚡ 𝐆𝐎𝐀𝐓-𝐁𝐎𝐓-𝐕𝟐 ⚡
 
   <div align="center" style="max-width:820px; margin:auto; padding:20px; background:#111; border-radius:20px; box-shadow:0 0 15px #0099ff;">
     <h2 style="color:#00c4ff;">📹 𝗦𝗲𝘁𝘂𝗽 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹</h2>
@@ -81,7 +81,7 @@ ______________________________________
 ## 📞 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄
 
 ### 🔵 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊
-<a href="https://www.facebook.com/MR.FARHAN.420">
+<a href="https://www.facebook.com/Ewr.Farhan.420">
 <img src="https://img.shields.io/badge/Facebook-ff0000?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
@@ -100,11 +100,11 @@ ______________________________________
 <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">
 </a>
 
-<a href="https://www.facebook.com/MR.FARHAN.420">
+<a href="https://www.facebook.com/Ewr.Farhan.420">
 <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
 </a>
 
-<a href="https://www.instagram.com/mr_farhan.420">
+<a href="https://www.instagram.com/DEVI.FARHAN_420">
 <img width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
 </a>
 
